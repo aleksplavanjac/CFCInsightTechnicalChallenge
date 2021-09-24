@@ -1,0 +1,4 @@
+python-dateutil==2.7.5
+beautifulsoup4==4.6.3
+requests==2.21.0
+json5==0.9.0
